@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{8C066209-4B1E-5FB9-A6D3-688D923D08CB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/test.cs">
+    <Files>
+      <File FileName="Assets/test.cs" Line="16" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HauntedHouse" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3aa438a8-6386-4c15-8338-b95c52951391" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
