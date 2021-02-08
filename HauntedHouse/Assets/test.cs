@@ -4,23 +4,39 @@ using UnityEngine;
 
 public class test : MonoBehaviour
 {
-    public Light yo;
+    public Light roomLight;
+    public Light flashlight;
+    public Transform ceiling;
     // Start is called before the first frame update
     void Start()
     {
-        light = GetComponent<Light>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        if(transform.position.y >= 1.5)
+        if(Input.inputString == "o")
         {
-            yo.intensity = 8;
+            flashlight.intensity = 20;
+        }
+        if (Input.inputString == "f")
+        {
+            flashlight.intensity = 0;
+        }
+
+
+        if (transform.position.y >= 2)
+        {
+            roomLight.intensity = 0;
+            //flashlight.intensity = 20;
+            ceiling.position = new Vector3(0, 4.98f, 0);
+
         }
         else
         {
-            yo.intensity = 0.1f;
+            roomLight.intensity = 6;
+            //flashlight.intensity = 0;
+            ceiling.position = new Vector3(0, 5, 0);
         }
     }
 }
