@@ -1,0 +1,2296 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2021-02-10T22:32:54.966-05:00
+  initializedAtString: 2021-02-10T22:27:08.681-05:00
+  entries:
+  - path: HauntedHouse\.vs\HauntedHouse\xs\project-cache\Assembly-CSharp-Debug.json
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\.vs\HauntedHouse\xs\project-cache\Assembly-CSharp-Debug.json
+    projectPath: .vs\HauntedHouse\xs\project-cache\Assembly-CSharp-Debug.json
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 5
+  - path: HauntedHouse\.vs\HauntedHouse\xs\UserPrefs.xml
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\.vs\HauntedHouse\xs\UserPrefs.xml
+    projectPath: .vs\HauntedHouse\xs\UserPrefs.xml
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 5
+  - path: HauntedHouse\Assembly-CSharp.csproj
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 5
+  - path: HauntedHouse\Assets\Materials\Hallway Carpet.mat
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Materials\Hallway
+      Carpet.mat
+    projectPath: Assets\Materials\Hallway Carpet.mat
+    originalPath: 
+    indexStatus: 3
+    workTreeStatus: 3
+  - path: HauntedHouse\Assets\New Material.mat
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\New
+      Material.mat
+    projectPath: Assets\New Material.mat
+    originalPath: 
+    indexStatus: 5
+    workTreeStatus: 0
+  - path: HauntedHouse\Assets\New Material.mat
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\New
+      Material.mat
+    projectPath: Assets\New Material.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\New Material.mat.meta
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\New
+      Material.mat.meta
+    projectPath: Assets\New Material.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\New Material.mat.meta" -> "HauntedHouse\Assets\Scenes\Intro
+      Room.unity.meta
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\New
+      Material.mat.meta" -> "HauntedHouse\Assets\Scenes\Intro Room.unity.meta
+    projectPath: Assets\New Material.mat.meta" -> "HauntedHouse\Assets\Scenes\Intro
+      Room.unity.meta
+    originalPath: 
+    indexStatus: 6
+    workTreeStatus: 5
+  - path: HauntedHouse\Assets\Plugins.meta
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins.meta
+    projectPath: Assets\Plugins.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub.meta
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub.meta
+    projectPath: Assets\Plugins\GitHub.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor.meta
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor.meta
+    projectPath: Assets\Plugins\GitHub\Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\credits.txt
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\credits.txt
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\eula.txt
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\eula.txt
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\libsfw.so
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\libsfw.so
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\x64.meta
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\x64.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\x86.meta
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\x86.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Scenes\Intro Room.unity
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Scenes\Intro
+      Room.unity
+    projectPath: Assets\Scenes\Intro Room.unity
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 5
+  - path: HauntedHouse\Assets\Scenes\SampleScene.unity
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Scenes\SampleScene.unity
+    projectPath: Assets\Scenes\SampleScene.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Scenes\SampleScene.unity.meta
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Scenes\SampleScene.unity.meta
+    projectPath: Assets\Scenes\SampleScene.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Assets\Scenes\SampleScene.unity -> HauntedHouse\Assets\Scenes\Hallway.unity
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Scenes\SampleScene.unity
+      -> HauntedHouse\Assets\Scenes\Hallway.unity
+    projectPath: Assets\Scenes\SampleScene.unity -> HauntedHouse\Assets\Scenes\Hallway.unity
+    originalPath: 
+    indexStatus: 6
+    workTreeStatus: 5
+  - path: HauntedHouse\Assets\Scenes\SampleScene.unity.meta -> HauntedHouse\Assets\Scenes\Hallway.unity.meta
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\Scenes\SampleScene.unity.meta
+      -> HauntedHouse\Assets\Scenes\Hallway.unity.meta
+    projectPath: Assets\Scenes\SampleScene.unity.meta -> HauntedHouse\Assets\Scenes\Hallway.unity.meta
+    originalPath: 
+    indexStatus: 6
+    workTreeStatus: 5
+  - path: HauntedHouse\Assets\test.cs
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\test.cs
+    projectPath: Assets\test.cs
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 5
+  - path: HauntedHouse\Assets\test.cs.meta
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Assets\test.cs.meta
+    projectPath: Assets\test.cs.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 5
+  - path: HauntedHouse\HauntedHouse.sln
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\HauntedHouse.sln
+    projectPath: HauntedHouse.sln
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 5
+  - path: HauntedHouse\Library\APIUpdater\project-dependencies.graph
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\APIUpdater\project-dependencies.graph
+    projectPath: Library\APIUpdater\project-dependencies.graph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ArtifactDB
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 9
+    workTreeStatus: 9
+  - path: HauntedHouse\Library\ArtifactDB-lock
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ArtifactDB-lock
+    projectPath: Library\ArtifactDB-lock
+    originalPath: 
+    indexStatus: 3
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\Artifacts\14\14006e2476c77eb1673947c07d8c1cd9
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\14\14006e2476c77eb1673947c07d8c1cd9
+    projectPath: Library\Artifacts\14\14006e2476c77eb1673947c07d8c1cd9
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 5
+  - path: HauntedHouse\Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+    projectPath: Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Library\Artifacts\21\2168fdf20b77041c7e5a7d8b04e873e4
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\21\2168fdf20b77041c7e5a7d8b04e873e4
+    projectPath: Library\Artifacts\21\2168fdf20b77041c7e5a7d8b04e873e4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: HauntedHouse\Library\Artifacts\23\23de0ecf45a7cd39e0b1a2ca318f5f8d
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\23\23de0ecf45a7cd39e0b1a2ca318f5f8d
+    projectPath: Library\Artifacts\23\23de0ecf45a7cd39e0b1a2ca318f5f8d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Library\Artifacts\26\2666446dac7664772cdc259f646772e0
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\26\2666446dac7664772cdc259f646772e0
+    projectPath: Library\Artifacts\26\2666446dac7664772cdc259f646772e0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Library\Artifacts\28\284bd1d06a8d69903c883a37fbedddd4
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\28\284bd1d06a8d69903c883a37fbedddd4
+    projectPath: Library\Artifacts\28\284bd1d06a8d69903c883a37fbedddd4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Library\Artifacts\2a\2a5c2d7102b53e9eb8fd5fd44821e8d0
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\2a\2a5c2d7102b53e9eb8fd5fd44821e8d0
+    projectPath: Library\Artifacts\2a\2a5c2d7102b53e9eb8fd5fd44821e8d0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Library\Artifacts\2a\2a80e2a12f381a4d34254fd1bffaaf29
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\2a\2a80e2a12f381a4d34254fd1bffaaf29
+    projectPath: Library\Artifacts\2a\2a80e2a12f381a4d34254fd1bffaaf29
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: HauntedHouse\Library\Artifacts\2c\2c8bfc71429155584b76f37097e0b6ae
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\2c\2c8bfc71429155584b76f37097e0b6ae
+    projectPath: Library\Artifacts\2c\2c8bfc71429155584b76f37097e0b6ae
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 5
+  - path: HauntedHouse\Library\Artifacts\36\360e8958f8ff0029d69d5b4b298440a8
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\36\360e8958f8ff0029d69d5b4b298440a8
+    projectPath: Library\Artifacts\36\360e8958f8ff0029d69d5b4b298440a8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Library\Artifacts\36\36335f04a272a9ccf44a066d3dfcc41b
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\36\36335f04a272a9ccf44a066d3dfcc41b
+    projectPath: Library\Artifacts\36\36335f04a272a9ccf44a066d3dfcc41b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Library\Artifacts\3c\3c7d602e0c3d943e4bb8a810f0a9d792
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\3c\3c7d602e0c3d943e4bb8a810f0a9d792
+    projectPath: Library\Artifacts\3c\3c7d602e0c3d943e4bb8a810f0a9d792
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Library\Artifacts\3c\3cacbc260e9c724007b49cd0fb199a0d
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\3c\3cacbc260e9c724007b49cd0fb199a0d
+    projectPath: Library\Artifacts\3c\3cacbc260e9c724007b49cd0fb199a0d
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 5
+  - path: HauntedHouse\Library\Artifacts\3e\3e1b7a27c0ac0bb92ab72f57420772e5
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\3e\3e1b7a27c0ac0bb92ab72f57420772e5
+    projectPath: Library\Artifacts\3e\3e1b7a27c0ac0bb92ab72f57420772e5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Library\Artifacts\43\434c0d4b814810c5c8700be55a45da3a
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\43\434c0d4b814810c5c8700be55a45da3a
+    projectPath: Library\Artifacts\43\434c0d4b814810c5c8700be55a45da3a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Library\Artifacts\45\45a441137ac7b87f148ea5e24db2128e
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\45\45a441137ac7b87f148ea5e24db2128e
+    projectPath: Library\Artifacts\45\45a441137ac7b87f148ea5e24db2128e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Library\Artifacts\4e\4e75c6036a9df0752d1db8e6ea41f1c8
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\4e\4e75c6036a9df0752d1db8e6ea41f1c8
+    projectPath: Library\Artifacts\4e\4e75c6036a9df0752d1db8e6ea41f1c8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Library\Artifacts\4f\4f3b8eec016afd696eb53bc9d7f2d4a4
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\4f\4f3b8eec016afd696eb53bc9d7f2d4a4
+    projectPath: Library\Artifacts\4f\4f3b8eec016afd696eb53bc9d7f2d4a4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: HauntedHouse\Library\Artifacts\51\51521ae9e9f994da0266a1d1c7e66e32
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\51\51521ae9e9f994da0266a1d1c7e66e32
+    projectPath: Library\Artifacts\51\51521ae9e9f994da0266a1d1c7e66e32
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Library\Artifacts\54\54646e17a5876d310ddc851078c29a9c
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\54\54646e17a5876d310ddc851078c29a9c
+    projectPath: Library\Artifacts\54\54646e17a5876d310ddc851078c29a9c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Library\Artifacts\56\56690b855b268e1fd7afcf7da0c87246
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\56\56690b855b268e1fd7afcf7da0c87246
+    projectPath: Library\Artifacts\56\56690b855b268e1fd7afcf7da0c87246
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 5
+  - path: HauntedHouse\Library\Artifacts\58\58eb8736ee06017053d7fb5f2f379bab
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\58\58eb8736ee06017053d7fb5f2f379bab
+    projectPath: Library\Artifacts\58\58eb8736ee06017053d7fb5f2f379bab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: HauntedHouse\Library\Artifacts\5b\5b59330feb56c1fb9db7eb00d7eaa71d
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\5b\5b59330feb56c1fb9db7eb00d7eaa71d
+    projectPath: Library\Artifacts\5b\5b59330feb56c1fb9db7eb00d7eaa71d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: HauntedHouse\Library\Artifacts\5c\5c93141e175e85dbc42d5fa73046c578
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\5c\5c93141e175e85dbc42d5fa73046c578
+    projectPath: Library\Artifacts\5c\5c93141e175e85dbc42d5fa73046c578
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: HauntedHouse\Library\Artifacts\5d\5d7e496f7af39af25b2094b09a11d1d5
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\5d\5d7e496f7af39af25b2094b09a11d1d5
+    projectPath: Library\Artifacts\5d\5d7e496f7af39af25b2094b09a11d1d5
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 5
+  - path: HauntedHouse\Library\Artifacts\5e\5e0cd148a0adc84c7c62aac9db2c3258
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\5e\5e0cd148a0adc84c7c62aac9db2c3258
+    projectPath: Library\Artifacts\5e\5e0cd148a0adc84c7c62aac9db2c3258
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: HauntedHouse\Library\Artifacts\60\60dbd1bf535627bcf401f3e24767ead5
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\60\60dbd1bf535627bcf401f3e24767ead5
+    projectPath: Library\Artifacts\60\60dbd1bf535627bcf401f3e24767ead5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: HauntedHouse\Library\Artifacts\61\6118a0ffae165a42020dd1402976f8f5
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\61\6118a0ffae165a42020dd1402976f8f5
+    projectPath: Library\Artifacts\61\6118a0ffae165a42020dd1402976f8f5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Library\Artifacts\68\687f1f99fe2a9d55cea80e0342c89e54
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\68\687f1f99fe2a9d55cea80e0342c89e54
+    projectPath: Library\Artifacts\68\687f1f99fe2a9d55cea80e0342c89e54
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: HauntedHouse\Library\Artifacts\6a\6a30b6f55af8136ad9bf99d7f3c690d7
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\6a\6a30b6f55af8136ad9bf99d7f3c690d7
+    projectPath: Library\Artifacts\6a\6a30b6f55af8136ad9bf99d7f3c690d7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: HauntedHouse\Library\Artifacts\6e\6e16040b504c14ca635cc0b235ea7a8f
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\6e\6e16040b504c14ca635cc0b235ea7a8f
+    projectPath: Library\Artifacts\6e\6e16040b504c14ca635cc0b235ea7a8f
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 5
+  - path: HauntedHouse\Library\Artifacts\6e\6ee45b3a1dd774f3d2294c6ae70e5640
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\6e\6ee45b3a1dd774f3d2294c6ae70e5640
+    projectPath: Library\Artifacts\6e\6ee45b3a1dd774f3d2294c6ae70e5640
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Library\Artifacts\75\75e4a2d73c968a62e66f8164a926f066
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\75\75e4a2d73c968a62e66f8164a926f066
+    projectPath: Library\Artifacts\75\75e4a2d73c968a62e66f8164a926f066
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Library\Artifacts\77\77784866c0ad23922d660824ee452bee
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\77\77784866c0ad23922d660824ee452bee
+    projectPath: Library\Artifacts\77\77784866c0ad23922d660824ee452bee
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Library\Artifacts\78\7875da6d279992dd9a48c375a8d04cdc
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\78\7875da6d279992dd9a48c375a8d04cdc
+    projectPath: Library\Artifacts\78\7875da6d279992dd9a48c375a8d04cdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Library\Artifacts\79\792df833cb469391bf2870c04b161a1e
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\79\792df833cb469391bf2870c04b161a1e
+    projectPath: Library\Artifacts\79\792df833cb469391bf2870c04b161a1e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Library\Artifacts\7a\7ad5ce28ed7d1b4a06ec618dd33e9994
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\7a\7ad5ce28ed7d1b4a06ec618dd33e9994
+    projectPath: Library\Artifacts\7a\7ad5ce28ed7d1b4a06ec618dd33e9994
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Library\Artifacts\7e\7e532e53dbe061c96faab95d2074587b
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\7e\7e532e53dbe061c96faab95d2074587b
+    projectPath: Library\Artifacts\7e\7e532e53dbe061c96faab95d2074587b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Library\Artifacts\82\8280f8367a62481726af3811591b0bec
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\82\8280f8367a62481726af3811591b0bec
+    projectPath: Library\Artifacts\82\8280f8367a62481726af3811591b0bec
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Library\Artifacts\83\83a63b2f1d227f30dabd65d0b4f7c4ee
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\83\83a63b2f1d227f30dabd65d0b4f7c4ee
+    projectPath: Library\Artifacts\83\83a63b2f1d227f30dabd65d0b4f7c4ee
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 5
+  - path: HauntedHouse\Library\Artifacts\84\84f71042ede3007bcdcb0b4aec2919e9
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\84\84f71042ede3007bcdcb0b4aec2919e9
+    projectPath: Library\Artifacts\84\84f71042ede3007bcdcb0b4aec2919e9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Library\Artifacts\85\853989f6b453ad03df3c209eb8b5e37c
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\85\853989f6b453ad03df3c209eb8b5e37c
+    projectPath: Library\Artifacts\85\853989f6b453ad03df3c209eb8b5e37c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Library\Artifacts\85\853a780a2da39127887e1654f3f4247f
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\85\853a780a2da39127887e1654f3f4247f
+    projectPath: Library\Artifacts\85\853a780a2da39127887e1654f3f4247f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Library\Artifacts\8c\8cb83f13e4c09431ed19602f7c1d93cb
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\8c\8cb83f13e4c09431ed19602f7c1d93cb
+    projectPath: Library\Artifacts\8c\8cb83f13e4c09431ed19602f7c1d93cb
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 5
+  - path: HauntedHouse\Library\Artifacts\8d\8ddad19175bb7f65978bfc71f7a44f1d
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\8d\8ddad19175bb7f65978bfc71f7a44f1d
+    projectPath: Library\Artifacts\8d\8ddad19175bb7f65978bfc71f7a44f1d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Library\Artifacts\8f\8fa75ec78008676d8b892a2c4f6b5129
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\8f\8fa75ec78008676d8b892a2c4f6b5129
+    projectPath: Library\Artifacts\8f\8fa75ec78008676d8b892a2c4f6b5129
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 5
+  - path: HauntedHouse\Library\Artifacts\96\964b4bd09a340586786489c797869f41
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\96\964b4bd09a340586786489c797869f41
+    projectPath: Library\Artifacts\96\964b4bd09a340586786489c797869f41
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Library\Artifacts\97\97529398c5a245d8d6eafb960cf9d6f8
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\97\97529398c5a245d8d6eafb960cf9d6f8
+    projectPath: Library\Artifacts\97\97529398c5a245d8d6eafb960cf9d6f8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Library\Artifacts\99\99665d0d3504e425e2eef6293d10267e
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\99\99665d0d3504e425e2eef6293d10267e
+    projectPath: Library\Artifacts\99\99665d0d3504e425e2eef6293d10267e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Library\Artifacts\9a\9a5f733642961d6d0dee3afffb46d90d
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\9a\9a5f733642961d6d0dee3afffb46d90d
+    projectPath: Library\Artifacts\9a\9a5f733642961d6d0dee3afffb46d90d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Library\Artifacts\a6\a62d5ac8d7df1529c6bd128de8f41966
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\a6\a62d5ac8d7df1529c6bd128de8f41966
+    projectPath: Library\Artifacts\a6\a62d5ac8d7df1529c6bd128de8f41966
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Library\Artifacts\aa\aae053fa3070bfc2b10e764ffd0099d3
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\aa\aae053fa3070bfc2b10e764ffd0099d3
+    projectPath: Library\Artifacts\aa\aae053fa3070bfc2b10e764ffd0099d3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Library\Artifacts\ae\aeec991bd1dba39075b5cd228a855d2e
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\ae\aeec991bd1dba39075b5cd228a855d2e
+    projectPath: Library\Artifacts\ae\aeec991bd1dba39075b5cd228a855d2e
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 5
+  - path: HauntedHouse\Library\Artifacts\b1\b1f7f3f3801e9c6855b2b42bd7096c11
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\b1\b1f7f3f3801e9c6855b2b42bd7096c11
+    projectPath: Library\Artifacts\b1\b1f7f3f3801e9c6855b2b42bd7096c11
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 5
+  - path: HauntedHouse\Library\Artifacts\b4\b4686f4b3c2acaae9947f54dd58e5727
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\b4\b4686f4b3c2acaae9947f54dd58e5727
+    projectPath: Library\Artifacts\b4\b4686f4b3c2acaae9947f54dd58e5727
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 5
+  - path: HauntedHouse\Library\Artifacts\be\beeec121ca42bc88fd6c81549f8fd60a
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\be\beeec121ca42bc88fd6c81549f8fd60a
+    projectPath: Library\Artifacts\be\beeec121ca42bc88fd6c81549f8fd60a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Library\Artifacts\c4\c4ef49ed3b4ff5f5584541570b92be4d
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\c4\c4ef49ed3b4ff5f5584541570b92be4d
+    projectPath: Library\Artifacts\c4\c4ef49ed3b4ff5f5584541570b92be4d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Library\Artifacts\cd\cddce4c00dd7a851900767377e0398e9
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\cd\cddce4c00dd7a851900767377e0398e9
+    projectPath: Library\Artifacts\cd\cddce4c00dd7a851900767377e0398e9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: HauntedHouse\Library\Artifacts\d0\d0c2c9ff9e1c29a696f68a682f50e76d
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\d0\d0c2c9ff9e1c29a696f68a682f50e76d
+    projectPath: Library\Artifacts\d0\d0c2c9ff9e1c29a696f68a682f50e76d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Library\Artifacts\d4\d4b2cf0eb35bb73f3389a6d8342b5c04
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\d4\d4b2cf0eb35bb73f3389a6d8342b5c04
+    projectPath: Library\Artifacts\d4\d4b2cf0eb35bb73f3389a6d8342b5c04
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: HauntedHouse\Library\Artifacts\d5\d54c0b09e5163270f842fa03d0e4cfd6
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\d5\d54c0b09e5163270f842fa03d0e4cfd6
+    projectPath: Library\Artifacts\d5\d54c0b09e5163270f842fa03d0e4cfd6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Library\Artifacts\d9\d94f2be9761a44b3e9742553a03f21e2
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\d9\d94f2be9761a44b3e9742553a03f21e2
+    projectPath: Library\Artifacts\d9\d94f2be9761a44b3e9742553a03f21e2
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 5
+  - path: HauntedHouse\Library\Artifacts\e2\e2c0c430b163e7db963302fdd718155c
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\e2\e2c0c430b163e7db963302fdd718155c
+    projectPath: Library\Artifacts\e2\e2c0c430b163e7db963302fdd718155c
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 5
+  - path: HauntedHouse\Library\Artifacts\e3\e31d6918ec1e41445d0b1e2a224a73fb
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\e3\e31d6918ec1e41445d0b1e2a224a73fb
+    projectPath: Library\Artifacts\e3\e31d6918ec1e41445d0b1e2a224a73fb
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 5
+  - path: HauntedHouse\Library\Artifacts\ea\ea0cccf2f8316addf8cb573d9eb2bf4b
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\ea\ea0cccf2f8316addf8cb573d9eb2bf4b
+    projectPath: Library\Artifacts\ea\ea0cccf2f8316addf8cb573d9eb2bf4b
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 5
+  - path: HauntedHouse\Library\Artifacts\eb\ebe5f49886f2fe57547e1dbbcde705d2
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\eb\ebe5f49886f2fe57547e1dbbcde705d2
+    projectPath: Library\Artifacts\eb\ebe5f49886f2fe57547e1dbbcde705d2
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 5
+  - path: HauntedHouse\Library\Artifacts\ec\ecdd34b5ac39bf8ac45dabdd850e16c6
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\ec\ecdd34b5ac39bf8ac45dabdd850e16c6
+    projectPath: Library\Artifacts\ec\ecdd34b5ac39bf8ac45dabdd850e16c6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Library\Artifacts\f4\f4fd5814fbcc2dfd056617946b6b2169
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\f4\f4fd5814fbcc2dfd056617946b6b2169
+    projectPath: Library\Artifacts\f4\f4fd5814fbcc2dfd056617946b6b2169
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Library\Artifacts\f6\f6268027b0c4a8f30bbea852df82564f
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\f6\f6268027b0c4a8f30bbea852df82564f
+    projectPath: Library\Artifacts\f6\f6268027b0c4a8f30bbea852df82564f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Library\Artifacts\f7\f76a726b8befe45875469cd036d91a99
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\f7\f76a726b8befe45875469cd036d91a99
+    projectPath: Library\Artifacts\f7\f76a726b8befe45875469cd036d91a99
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Library\Artifacts\fa\fae0f7eaa44ca96772e5c1f3cdbf9f8d
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\fa\fae0f7eaa44ca96772e5c1f3cdbf9f8d
+    projectPath: Library\Artifacts\fa\fae0f7eaa44ca96772e5c1f3cdbf9f8d
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 5
+  - path: HauntedHouse\Library\Artifacts\ff\ff6e77bf502dccb4814af3cc46cec0a4
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\Artifacts\ff\ff6e77bf502dccb4814af3cc46cec0a4
+    projectPath: Library\Artifacts\ff\ff6e77bf502dccb4814af3cc46cec0a4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Library\CurrentLayout-default.dwlt
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 9
+    workTreeStatus: 9
+  - path: HauntedHouse\Library\EditorInstance.json
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 5
+    workTreeStatus: 9
+  - path: HauntedHouse\Library\expandedItems
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\expandedItems
+    projectPath: Library\expandedItems
+    originalPath: 
+    indexStatus: 9
+    workTreeStatus: 9
+  - path: HauntedHouse\Library\gfu\cache\branches.yaml
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Library\gfu\cache\gitlocks.yaml
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Library\gfu\cache\gitlog.yaml
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Library\gfu\cache\gituser.yaml
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Library\gfu\cache\repoinfo.yaml
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Library\InspectorExpandedItems.asset
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 9
+    workTreeStatus: 9
+  - path: HauntedHouse\Library\LastSceneManagerSetup.txt
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\LastSceneManagerSetup.txt
+    projectPath: Library\LastSceneManagerSetup.txt
+    originalPath: 
+    indexStatus: 9
+    workTreeStatus: 9
+  - path: HauntedHouse\Library\SceneVisibilityState.asset
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 9
+    workTreeStatus: 9
+  - path: HauntedHouse\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 4
+  - path: HauntedHouse\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 4
+  - path: HauntedHouse\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Library\ScriptAssemblies\Supyrb.Editor.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Supyrb.Editor.dll
+    projectPath: Library\ScriptAssemblies\Supyrb.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Tilia.CameraRigs.SpatialSimulator.Unity.Runtime.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Tilia.CameraRigs.SpatialSimulator.Unity.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Tilia.CameraRigs.SpatialSimulator.Unity.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Tilia.CameraRigs.SpatialSimulator.Unity.Runtime.pdb
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Tilia.CameraRigs.SpatialSimulator.Unity.Runtime.pdb
+    projectPath: Library\ScriptAssemblies\Tilia.CameraRigs.SpatialSimulator.Unity.Runtime.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Tilia.CameraRigs.TrackedAlias.Unity.Runtime.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Tilia.CameraRigs.TrackedAlias.Unity.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Tilia.CameraRigs.TrackedAlias.Unity.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Tilia.CameraRigs.TrackedAlias.Unity.Runtime.pdb
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Tilia.CameraRigs.TrackedAlias.Unity.Runtime.pdb
+    projectPath: Library\ScriptAssemblies\Tilia.CameraRigs.TrackedAlias.Unity.Runtime.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Tilia.CameraRigs.UnityXR.Runtime.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Tilia.CameraRigs.UnityXR.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Tilia.CameraRigs.UnityXR.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Tilia.CameraRigs.UnityXR.Runtime.pdb
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Tilia.CameraRigs.UnityXR.Runtime.pdb
+    projectPath: Library\ScriptAssemblies\Tilia.CameraRigs.UnityXR.Runtime.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Tilia.DeveloperTools.Unity.Editor.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Tilia.DeveloperTools.Unity.Editor.dll
+    projectPath: Library\ScriptAssemblies\Tilia.DeveloperTools.Unity.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Tilia.DeveloperTools.Unity.Editor.pdb
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Tilia.DeveloperTools.Unity.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Tilia.DeveloperTools.Unity.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Tilia.Indicators.ObjectPointers.Unity.Runtime.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Tilia.Indicators.ObjectPointers.Unity.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Tilia.Indicators.ObjectPointers.Unity.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Tilia.Indicators.ObjectPointers.Unity.Runtime.pdb
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Tilia.Indicators.ObjectPointers.Unity.Runtime.pdb
+    projectPath: Library\ScriptAssemblies\Tilia.Indicators.ObjectPointers.Unity.Runtime.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Tilia.Indicators.SpatialTargets.Unity.Runtime.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Tilia.Indicators.SpatialTargets.Unity.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Tilia.Indicators.SpatialTargets.Unity.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Tilia.Indicators.SpatialTargets.Unity.Runtime.pdb
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Tilia.Indicators.SpatialTargets.Unity.Runtime.pdb
+    projectPath: Library\ScriptAssemblies\Tilia.Indicators.SpatialTargets.Unity.Runtime.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Tilia.Input.CombinedActions.Unity.Runtime.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Tilia.Input.CombinedActions.Unity.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Tilia.Input.CombinedActions.Unity.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Tilia.Input.CombinedActions.Unity.Runtime.pdb
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Tilia.Input.CombinedActions.Unity.Runtime.pdb
+    projectPath: Library\ScriptAssemblies\Tilia.Input.CombinedActions.Unity.Runtime.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Tilia.Input.UnityInputManager.Editor.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Tilia.Input.UnityInputManager.Editor.dll
+    projectPath: Library\ScriptAssemblies\Tilia.Input.UnityInputManager.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Tilia.Input.UnityInputManager.Editor.pdb
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Tilia.Input.UnityInputManager.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Tilia.Input.UnityInputManager.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Tilia.Input.UnityInputManager.Runtime.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Tilia.Input.UnityInputManager.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Tilia.Input.UnityInputManager.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Tilia.Input.UnityInputManager.Runtime.pdb
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Tilia.Input.UnityInputManager.Runtime.pdb
+    projectPath: Library\ScriptAssemblies\Tilia.Input.UnityInputManager.Runtime.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Tilia.Interactions.Controllables.Unity.Runtime.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Tilia.Interactions.Controllables.Unity.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Tilia.Interactions.Controllables.Unity.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Tilia.Interactions.Controllables.Unity.Runtime.pdb
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Tilia.Interactions.Controllables.Unity.Runtime.pdb
+    projectPath: Library\ScriptAssemblies\Tilia.Interactions.Controllables.Unity.Runtime.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Tilia.Interactions.Interactables.Unity.Editor.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Tilia.Interactions.Interactables.Unity.Editor.dll
+    projectPath: Library\ScriptAssemblies\Tilia.Interactions.Interactables.Unity.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Tilia.Interactions.Interactables.Unity.Editor.pdb
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Tilia.Interactions.Interactables.Unity.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Tilia.Interactions.Interactables.Unity.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Tilia.Interactions.Interactables.Unity.Runtime.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Tilia.Interactions.Interactables.Unity.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Tilia.Interactions.Interactables.Unity.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Tilia.Interactions.Interactables.Unity.Runtime.pdb
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Tilia.Interactions.Interactables.Unity.Runtime.pdb
+    projectPath: Library\ScriptAssemblies\Tilia.Interactions.Interactables.Unity.Runtime.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Tilia.Interactions.PointerInteractors.Unity.Runtime.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Tilia.Interactions.PointerInteractors.Unity.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Tilia.Interactions.PointerInteractors.Unity.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Tilia.Interactions.PointerInteractors.Unity.Runtime.pdb
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Tilia.Interactions.PointerInteractors.Unity.Runtime.pdb
+    projectPath: Library\ScriptAssemblies\Tilia.Interactions.PointerInteractors.Unity.Runtime.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Tilia.Interactions.SnapZone.Unity.Runtime.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Tilia.Interactions.SnapZone.Unity.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Tilia.Interactions.SnapZone.Unity.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Tilia.Interactions.SnapZone.Unity.Runtime.pdb
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Tilia.Interactions.SnapZone.Unity.Runtime.pdb
+    projectPath: Library\ScriptAssemblies\Tilia.Interactions.SnapZone.Unity.Runtime.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Tilia.Interactions.SpatialButtons.Runtime.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Tilia.Interactions.SpatialButtons.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Tilia.Interactions.SpatialButtons.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Tilia.Interactions.SpatialButtons.Runtime.pdb
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Tilia.Interactions.SpatialButtons.Runtime.pdb
+    projectPath: Library\ScriptAssemblies\Tilia.Interactions.SpatialButtons.Runtime.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Tilia.Locomotors.AxisMove.Unity.Runtime.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Tilia.Locomotors.AxisMove.Unity.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Tilia.Locomotors.AxisMove.Unity.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Tilia.Locomotors.AxisMove.Unity.Runtime.pdb
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Tilia.Locomotors.AxisMove.Unity.Runtime.pdb
+    projectPath: Library\ScriptAssemblies\Tilia.Locomotors.AxisMove.Unity.Runtime.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Tilia.Locomotors.Climbing.Unity.Runtime.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Tilia.Locomotors.Climbing.Unity.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Tilia.Locomotors.Climbing.Unity.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Tilia.Locomotors.Climbing.Unity.Runtime.pdb
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Tilia.Locomotors.Climbing.Unity.Runtime.pdb
+    projectPath: Library\ScriptAssemblies\Tilia.Locomotors.Climbing.Unity.Runtime.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Tilia.Locomotors.Teleporter.Unity.Runtime.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Tilia.Locomotors.Teleporter.Unity.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Tilia.Locomotors.Teleporter.Unity.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Tilia.Locomotors.Teleporter.Unity.Runtime.pdb
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Tilia.Locomotors.Teleporter.Unity.Runtime.pdb
+    projectPath: Library\ScriptAssemblies\Tilia.Locomotors.Teleporter.Unity.Runtime.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Tilia.Trackers.ColliderFollower.Unity.Runtime.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Tilia.Trackers.ColliderFollower.Unity.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Tilia.Trackers.ColliderFollower.Unity.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Tilia.Trackers.ColliderFollower.Unity.Runtime.pdb
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Tilia.Trackers.ColliderFollower.Unity.Runtime.pdb
+    projectPath: Library\ScriptAssemblies\Tilia.Trackers.ColliderFollower.Unity.Runtime.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Tilia.Trackers.PseudoBody.Unity.Runtime.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Tilia.Trackers.PseudoBody.Unity.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Tilia.Trackers.PseudoBody.Unity.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Tilia.Trackers.PseudoBody.Unity.Runtime.pdb
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Tilia.Trackers.PseudoBody.Unity.Runtime.pdb
+    projectPath: Library\ScriptAssemblies\Tilia.Trackers.PseudoBody.Unity.Runtime.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Tilia.Utility.ObjectStateSwitcher.Unity.Runtime.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Tilia.Utility.ObjectStateSwitcher.Unity.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Tilia.Utility.ObjectStateSwitcher.Unity.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Tilia.Utility.ObjectStateSwitcher.Unity.Runtime.pdb
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Tilia.Utility.ObjectStateSwitcher.Unity.Runtime.pdb
+    projectPath: Library\ScriptAssemblies\Tilia.Utility.ObjectStateSwitcher.Unity.Runtime.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Tilia.Visuals.Tooltip.Unity.Runtime.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Tilia.Visuals.Tooltip.Unity.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Tilia.Visuals.Tooltip.Unity.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Tilia.Visuals.Tooltip.Unity.Runtime.pdb
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Tilia.Visuals.Tooltip.Unity.Runtime.pdb
+    projectPath: Library\ScriptAssemblies\Tilia.Visuals.Tooltip.Unity.Runtime.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll
+    projectPath: Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Unity.ProBuilder.Csg.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Unity.ProBuilder.Csg.dll
+    projectPath: Library\ScriptAssemblies\Unity.ProBuilder.Csg.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Unity.ProBuilder.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Unity.ProBuilder.dll
+    projectPath: Library\ScriptAssemblies\Unity.ProBuilder.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Unity.ProBuilder.KdTree.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Unity.ProBuilder.KdTree.dll
+    projectPath: Library\ScriptAssemblies\Unity.ProBuilder.KdTree.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Unity.ProBuilder.Poly2Tri.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Unity.ProBuilder.Poly2Tri.dll
+    projectPath: Library\ScriptAssemblies\Unity.ProBuilder.Poly2Tri.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Unity.ProBuilder.Stl.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Unity.ProBuilder.Stl.dll
+    projectPath: Library\ScriptAssemblies\Unity.ProBuilder.Stl.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Unity.ProGrids.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Unity.ProGrids.dll
+    projectPath: Library\ScriptAssemblies\Unity.ProGrids.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Unity.ProGrids.Editor.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Unity.ProGrids.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.ProGrids.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Unity.Settings.Editor.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Unity.Settings.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Settings.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\UnityEditor.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\UnityEngine.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Zinnia.Editor.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Zinnia.Editor.dll
+    projectPath: Library\ScriptAssemblies\Zinnia.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Zinnia.Editor.pdb
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Zinnia.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Zinnia.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Zinnia.Runtime.dll
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Zinnia.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Zinnia.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ScriptAssemblies\Zinnia.Runtime.pdb
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ScriptAssemblies\Zinnia.Runtime.pdb
+    projectPath: Library\ScriptAssemblies\Zinnia.Runtime.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\ShaderCache\2\231aa5ab9a993411c0de63ed56c4b51c.bin
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ShaderCache\2\231aa5ab9a993411c0de63ed56c4b51c.bin
+    projectPath: Library\ShaderCache\2\231aa5ab9a993411c0de63ed56c4b51c.bin
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 5
+  - path: HauntedHouse\Library\ShaderCache\4\4e4ba6b55079428612d34ada097b1172.bin
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ShaderCache\4\4e4ba6b55079428612d34ada097b1172.bin
+    projectPath: Library\ShaderCache\4\4e4ba6b55079428612d34ada097b1172.bin
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 5
+  - path: HauntedHouse\Library\ShaderCache\5\571cd5c5f6b096c5fc788fd02529697f.bin
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ShaderCache\5\571cd5c5f6b096c5fc788fd02529697f.bin
+    projectPath: Library\ShaderCache\5\571cd5c5f6b096c5fc788fd02529697f.bin
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 5
+  - path: HauntedHouse\Library\ShaderCache\8\8606f5931be05701e088944065c1ff50.bin
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ShaderCache\8\8606f5931be05701e088944065c1ff50.bin
+    projectPath: Library\ShaderCache\8\8606f5931be05701e088944065c1ff50.bin
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 5
+  - path: HauntedHouse\Library\ShaderCache\8\8dbf850d0999bcf5e3be25af720f4557.bin
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ShaderCache\8\8dbf850d0999bcf5e3be25af720f4557.bin
+    projectPath: Library\ShaderCache\8\8dbf850d0999bcf5e3be25af720f4557.bin
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 5
+  - path: HauntedHouse\Library\ShaderCache\b\b8459ce90e6226bbe3fd0e7f66aed750.bin
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ShaderCache\b\b8459ce90e6226bbe3fd0e7f66aed750.bin
+    projectPath: Library\ShaderCache\b\b8459ce90e6226bbe3fd0e7f66aed750.bin
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 5
+  - path: HauntedHouse\Library\ShaderCache\e\edd19c52b229e058bea3664eb69c4370.bin
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ShaderCache\e\edd19c52b229e058bea3664eb69c4370.bin
+    projectPath: Library\ShaderCache\e\edd19c52b229e058bea3664eb69c4370.bin
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 5
+  - path: HauntedHouse\Library\ShaderCache\EditorEncounteredVariants
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 9
+    workTreeStatus: 9
+  - path: HauntedHouse\Library\ShaderCache\f\f47ad78686cdc0fb51b8d891704c03cd.bin
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\ShaderCache\f\f47ad78686cdc0fb51b8d891704c03cd.bin
+    projectPath: Library\ShaderCache\f\f47ad78686cdc0fb51b8d891704c03cd.bin
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 5
+  - path: HauntedHouse\Library\shadercompiler-UnityShaderCompiler10.log
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\shadercompiler-UnityShaderCompiler10.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler10.log
+    originalPath: 
+    indexStatus: 3
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\shadercompiler-UnityShaderCompiler3.log
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\shadercompiler-UnityShaderCompiler3.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler3.log
+    originalPath: 
+    indexStatus: 3
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\shadercompiler-UnityShaderCompiler4.log
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\shadercompiler-UnityShaderCompiler4.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler4.log
+    originalPath: 
+    indexStatus: 3
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\shadercompiler-UnityShaderCompiler5.log
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\shadercompiler-UnityShaderCompiler5.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler5.log
+    originalPath: 
+    indexStatus: 3
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\shadercompiler-UnityShaderCompiler7.log
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\shadercompiler-UnityShaderCompiler7.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler7.log
+    originalPath: 
+    indexStatus: 3
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\shadercompiler-UnityShaderCompiler9.log
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\shadercompiler-UnityShaderCompiler9.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler9.log
+    originalPath: 
+    indexStatus: 3
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\SourceAssetDB
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 9
+    workTreeStatus: 9
+  - path: HauntedHouse\Library\SourceAssetDB-lock
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\SourceAssetDB-lock
+    projectPath: Library\SourceAssetDB-lock
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\StateCache\Hierarchy\717a18-114b3c3ce4645364a9.json
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\StateCache\Hierarchy\717a18-114b3c3ce4645364a9.json
+    projectPath: Library\StateCache\Hierarchy\717a18-114b3c3ce4645364a9.json
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 5
+  - path: HauntedHouse\Library\StateCache\Hierarchy\717a18-mainStage.json
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\StateCache\Hierarchy\717a18-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\717a18-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: HauntedHouse\Library\StateCache\SceneView\bb29ec-114b3c3ce4645364a9.json
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\StateCache\SceneView\bb29ec-114b3c3ce4645364a9.json
+    projectPath: Library\StateCache\SceneView\bb29ec-114b3c3ce4645364a9.json
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 5
+  - path: HauntedHouse\Library\StateCache\SceneView\bb29ec-mainStage.json
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Library\StateCache\SceneView\bb29ec-mainStage.json
+    projectPath: Library\StateCache\SceneView\bb29ec-mainStage.json
+    originalPath: 
+    indexStatus: 9
+    workTreeStatus: 9
+  - path: HauntedHouse\obj\Assembly-CSharp.csprojAssemblyReference.cache
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\obj\Assembly-CSharp.csprojAssemblyReference.cache
+    projectPath: obj\Assembly-CSharp.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 5
+  - path: HauntedHouse\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 5
+  - path: HauntedHouse\Temp\__Backupscenes\0.backup
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\ProcessJobs\231763c41ba994503d342148ff47d1be.bakert
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\ProcessJobs\231763c41ba994503d342148ff47d1be.bakert
+    projectPath: Temp\ProcessJobs\231763c41ba994503d342148ff47d1be.bakert
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 5
+  - path: HauntedHouse\Temp\UnityLockfile
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-0049c9190a874f64e98717f940c7044f
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-0049c9190a874f64e98717f940c7044f
+    projectPath: Temp\UnityTempFile-0049c9190a874f64e98717f940c7044f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-00e53344c93f3f74d9dbad2adc8feb4e
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-00e53344c93f3f74d9dbad2adc8feb4e
+    projectPath: Temp\UnityTempFile-00e53344c93f3f74d9dbad2adc8feb4e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-04c13f45017151442904b88b7ef25838
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-04c13f45017151442904b88b7ef25838
+    projectPath: Temp\UnityTempFile-04c13f45017151442904b88b7ef25838
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-079939ef74c64e44a8737692bdf4951d
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-079939ef74c64e44a8737692bdf4951d
+    projectPath: Temp\UnityTempFile-079939ef74c64e44a8737692bdf4951d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-09186144af4b5314091ed2224fcd62c2
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-09186144af4b5314091ed2224fcd62c2
+    projectPath: Temp\UnityTempFile-09186144af4b5314091ed2224fcd62c2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-09ec90ed89019bb4fbce62c2edd3d99e
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-09ec90ed89019bb4fbce62c2edd3d99e
+    projectPath: Temp\UnityTempFile-09ec90ed89019bb4fbce62c2edd3d99e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-0c1a7a2d73bb17741955421975908dba
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-0c1a7a2d73bb17741955421975908dba
+    projectPath: Temp\UnityTempFile-0c1a7a2d73bb17741955421975908dba
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-0d396c1dd9ebc9244bb6da62eb57447c
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-0d396c1dd9ebc9244bb6da62eb57447c
+    projectPath: Temp\UnityTempFile-0d396c1dd9ebc9244bb6da62eb57447c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-0d8269ef280270a47bba8b5d1cc8103e
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-0d8269ef280270a47bba8b5d1cc8103e
+    projectPath: Temp\UnityTempFile-0d8269ef280270a47bba8b5d1cc8103e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-0fd97ca2f4cb36440a8026643f3a120a
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-0fd97ca2f4cb36440a8026643f3a120a
+    projectPath: Temp\UnityTempFile-0fd97ca2f4cb36440a8026643f3a120a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-15baedafa11b6a1418b08640eb72d977
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-15baedafa11b6a1418b08640eb72d977
+    projectPath: Temp\UnityTempFile-15baedafa11b6a1418b08640eb72d977
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-1775ed00dc3b46d418893166f1a73435
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-1775ed00dc3b46d418893166f1a73435
+    projectPath: Temp\UnityTempFile-1775ed00dc3b46d418893166f1a73435
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-1c2759de7e722cb4d95b2848a2c1127b
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-1c2759de7e722cb4d95b2848a2c1127b
+    projectPath: Temp\UnityTempFile-1c2759de7e722cb4d95b2848a2c1127b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-1ebe927b7a0d8bc46ac04b08940f3fd9
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-1ebe927b7a0d8bc46ac04b08940f3fd9
+    projectPath: Temp\UnityTempFile-1ebe927b7a0d8bc46ac04b08940f3fd9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-1f8cc259e1df1f449855c402114c3669
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-1f8cc259e1df1f449855c402114c3669
+    projectPath: Temp\UnityTempFile-1f8cc259e1df1f449855c402114c3669
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-223b6d85fbf0a944cbef67f3462bf35b
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-223b6d85fbf0a944cbef67f3462bf35b
+    projectPath: Temp\UnityTempFile-223b6d85fbf0a944cbef67f3462bf35b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-246d4718156c0db4f80e501895cd91da
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-246d4718156c0db4f80e501895cd91da
+    projectPath: Temp\UnityTempFile-246d4718156c0db4f80e501895cd91da
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-24ccd9ff00cac56409fb8615bfbcd9c4
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-24ccd9ff00cac56409fb8615bfbcd9c4
+    projectPath: Temp\UnityTempFile-24ccd9ff00cac56409fb8615bfbcd9c4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-27e4f1004811ae945ba90700aaf7f6de
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-27e4f1004811ae945ba90700aaf7f6de
+    projectPath: Temp\UnityTempFile-27e4f1004811ae945ba90700aaf7f6de
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-29a40e2e377f84f4eac8f6ff69f3be7c
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-29a40e2e377f84f4eac8f6ff69f3be7c
+    projectPath: Temp\UnityTempFile-29a40e2e377f84f4eac8f6ff69f3be7c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-2a759abafb9d23542818bbc3c6238819
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-2a759abafb9d23542818bbc3c6238819
+    projectPath: Temp\UnityTempFile-2a759abafb9d23542818bbc3c6238819
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-2ab7e7fb00f01074a98b64975fb7dc99
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-2ab7e7fb00f01074a98b64975fb7dc99
+    projectPath: Temp\UnityTempFile-2ab7e7fb00f01074a98b64975fb7dc99
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-2e1e38035921db44e844eac32280334c
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-2e1e38035921db44e844eac32280334c
+    projectPath: Temp\UnityTempFile-2e1e38035921db44e844eac32280334c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-3096a5e3581e74a499a30c1aa1427657
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-3096a5e3581e74a499a30c1aa1427657
+    projectPath: Temp\UnityTempFile-3096a5e3581e74a499a30c1aa1427657
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-3271d1ee0da93fb47a27042d1a42a5d7
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-3271d1ee0da93fb47a27042d1a42a5d7
+    projectPath: Temp\UnityTempFile-3271d1ee0da93fb47a27042d1a42a5d7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-3320b60ec70b4344d8de878a763c4120
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-3320b60ec70b4344d8de878a763c4120
+    projectPath: Temp\UnityTempFile-3320b60ec70b4344d8de878a763c4120
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-3333dd35705b200468c950b591c7f8cd
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-3333dd35705b200468c950b591c7f8cd
+    projectPath: Temp\UnityTempFile-3333dd35705b200468c950b591c7f8cd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-3352ef863b6eb6240b48f81518e3db44
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-3352ef863b6eb6240b48f81518e3db44
+    projectPath: Temp\UnityTempFile-3352ef863b6eb6240b48f81518e3db44
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-33eff092ee33f904f9af512eff969021
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-33eff092ee33f904f9af512eff969021
+    projectPath: Temp\UnityTempFile-33eff092ee33f904f9af512eff969021
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-350b511b3d7bfb44c81db93d8db1d777
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-350b511b3d7bfb44c81db93d8db1d777
+    projectPath: Temp\UnityTempFile-350b511b3d7bfb44c81db93d8db1d777
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-35ecb7cba8ed4c041a3ceab707a5bd08
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-35ecb7cba8ed4c041a3ceab707a5bd08
+    projectPath: Temp\UnityTempFile-35ecb7cba8ed4c041a3ceab707a5bd08
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-35eee1bfe177bdf4da9ad293211e812b
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-35eee1bfe177bdf4da9ad293211e812b
+    projectPath: Temp\UnityTempFile-35eee1bfe177bdf4da9ad293211e812b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-368ece8a739ce114595b1aef2c5bb931
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-368ece8a739ce114595b1aef2c5bb931
+    projectPath: Temp\UnityTempFile-368ece8a739ce114595b1aef2c5bb931
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-37e37ccfc0a885c4b8f457a74705cf37
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-37e37ccfc0a885c4b8f457a74705cf37
+    projectPath: Temp\UnityTempFile-37e37ccfc0a885c4b8f457a74705cf37
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-3d431dc20381dce4483f0b53f74441ac
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-3d431dc20381dce4483f0b53f74441ac
+    projectPath: Temp\UnityTempFile-3d431dc20381dce4483f0b53f74441ac
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-3f74c9709785f0b459b8a576282faa73
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-3f74c9709785f0b459b8a576282faa73
+    projectPath: Temp\UnityTempFile-3f74c9709785f0b459b8a576282faa73
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-3ff05f09a08c40e4cbf705bf2214b51c
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-3ff05f09a08c40e4cbf705bf2214b51c
+    projectPath: Temp\UnityTempFile-3ff05f09a08c40e4cbf705bf2214b51c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-410adfe050c34da4c98c0419e780fec3
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-410adfe050c34da4c98c0419e780fec3
+    projectPath: Temp\UnityTempFile-410adfe050c34da4c98c0419e780fec3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-4239a55f49800df46974725618a2db5a
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-4239a55f49800df46974725618a2db5a
+    projectPath: Temp\UnityTempFile-4239a55f49800df46974725618a2db5a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-4617d5afc6bdb0c48849f630ba352d9b
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-4617d5afc6bdb0c48849f630ba352d9b
+    projectPath: Temp\UnityTempFile-4617d5afc6bdb0c48849f630ba352d9b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-466ee6d4379160441ab77dbe11c1eb75
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-466ee6d4379160441ab77dbe11c1eb75
+    projectPath: Temp\UnityTempFile-466ee6d4379160441ab77dbe11c1eb75
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-47027bafd04192c48ad6c218552f97c6
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-47027bafd04192c48ad6c218552f97c6
+    projectPath: Temp\UnityTempFile-47027bafd04192c48ad6c218552f97c6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-4f88c15d1a0817c4583527066046ea56
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-4f88c15d1a0817c4583527066046ea56
+    projectPath: Temp\UnityTempFile-4f88c15d1a0817c4583527066046ea56
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-562943a3bdbe41f41b546e18387d6a87
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-562943a3bdbe41f41b546e18387d6a87
+    projectPath: Temp\UnityTempFile-562943a3bdbe41f41b546e18387d6a87
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-57a5acc0cb01b7142a1751065828119c
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-57a5acc0cb01b7142a1751065828119c
+    projectPath: Temp\UnityTempFile-57a5acc0cb01b7142a1751065828119c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-5c349bdc11ba1b947b5bd3e1981cb658
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-5c349bdc11ba1b947b5bd3e1981cb658
+    projectPath: Temp\UnityTempFile-5c349bdc11ba1b947b5bd3e1981cb658
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-5cd1b7e71b040bc45931bb7ef91b20e2
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-5cd1b7e71b040bc45931bb7ef91b20e2
+    projectPath: Temp\UnityTempFile-5cd1b7e71b040bc45931bb7ef91b20e2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-5d82706fb1f9eef4a855d173bf1bd8f7
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-5d82706fb1f9eef4a855d173bf1bd8f7
+    projectPath: Temp\UnityTempFile-5d82706fb1f9eef4a855d173bf1bd8f7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-5f03cebadf693034b8aa325fffd0c191
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-5f03cebadf693034b8aa325fffd0c191
+    projectPath: Temp\UnityTempFile-5f03cebadf693034b8aa325fffd0c191
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-5f25b95991a4da4418cf280dc0fb6368
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-5f25b95991a4da4418cf280dc0fb6368
+    projectPath: Temp\UnityTempFile-5f25b95991a4da4418cf280dc0fb6368
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-68b73a5a9d838984f869ec0e4c3fc3e0
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-68b73a5a9d838984f869ec0e4c3fc3e0
+    projectPath: Temp\UnityTempFile-68b73a5a9d838984f869ec0e4c3fc3e0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-6f0d2dece37a8754391e3bb8a607a205
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-6f0d2dece37a8754391e3bb8a607a205
+    projectPath: Temp\UnityTempFile-6f0d2dece37a8754391e3bb8a607a205
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-7637d4aa01114084eb94041f86a6499c
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-7637d4aa01114084eb94041f86a6499c
+    projectPath: Temp\UnityTempFile-7637d4aa01114084eb94041f86a6499c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-769446cab15b8b342abfebfdf6ba8924
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-769446cab15b8b342abfebfdf6ba8924
+    projectPath: Temp\UnityTempFile-769446cab15b8b342abfebfdf6ba8924
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-781c25a9ef3c7c54ea3e923303a38216
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-781c25a9ef3c7c54ea3e923303a38216
+    projectPath: Temp\UnityTempFile-781c25a9ef3c7c54ea3e923303a38216
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-79766b4aa6ad5c044baf1ca1bede215d
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-79766b4aa6ad5c044baf1ca1bede215d
+    projectPath: Temp\UnityTempFile-79766b4aa6ad5c044baf1ca1bede215d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-7b48677a9146b694f8327ca8826772e2
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-7b48677a9146b694f8327ca8826772e2
+    projectPath: Temp\UnityTempFile-7b48677a9146b694f8327ca8826772e2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-83ff67595baf48d439942ebf3ba68ad3
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-83ff67595baf48d439942ebf3ba68ad3
+    projectPath: Temp\UnityTempFile-83ff67595baf48d439942ebf3ba68ad3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-841823bc7efcd1848a57190dc5cdfaeb
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-841823bc7efcd1848a57190dc5cdfaeb
+    projectPath: Temp\UnityTempFile-841823bc7efcd1848a57190dc5cdfaeb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-844cf29b1ce4b7345a7429987cfeb52a
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-844cf29b1ce4b7345a7429987cfeb52a
+    projectPath: Temp\UnityTempFile-844cf29b1ce4b7345a7429987cfeb52a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-8c14f7d9c87f7af4d945f9b9fa067b59
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-8c14f7d9c87f7af4d945f9b9fa067b59
+    projectPath: Temp\UnityTempFile-8c14f7d9c87f7af4d945f9b9fa067b59
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-8dbc4ea4d4e69f04ab31ca0a1cca6c99
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-8dbc4ea4d4e69f04ab31ca0a1cca6c99
+    projectPath: Temp\UnityTempFile-8dbc4ea4d4e69f04ab31ca0a1cca6c99
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-8dc1e3e6bdedc97428f084d784fdeaf2
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-8dc1e3e6bdedc97428f084d784fdeaf2
+    projectPath: Temp\UnityTempFile-8dc1e3e6bdedc97428f084d784fdeaf2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-8eb805e3cafc0094c81b8996d85df4ae
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-8eb805e3cafc0094c81b8996d85df4ae
+    projectPath: Temp\UnityTempFile-8eb805e3cafc0094c81b8996d85df4ae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-91ed5f63de66ab74e90f5350feb5ca74
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-91ed5f63de66ab74e90f5350feb5ca74
+    projectPath: Temp\UnityTempFile-91ed5f63de66ab74e90f5350feb5ca74
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-92e102e427fbc6345b05148c700b2d26
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-92e102e427fbc6345b05148c700b2d26
+    projectPath: Temp\UnityTempFile-92e102e427fbc6345b05148c700b2d26
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-98631fcbea7e2ce458370bc64ccc1c88
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-98631fcbea7e2ce458370bc64ccc1c88
+    projectPath: Temp\UnityTempFile-98631fcbea7e2ce458370bc64ccc1c88
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-a9411725c5cb26b439585d1b685c3032
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-a9411725c5cb26b439585d1b685c3032
+    projectPath: Temp\UnityTempFile-a9411725c5cb26b439585d1b685c3032
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-acab9e774cb6f9242bc64eda2bb8a4b3
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-acab9e774cb6f9242bc64eda2bb8a4b3
+    projectPath: Temp\UnityTempFile-acab9e774cb6f9242bc64eda2bb8a4b3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-b02f53c3a99ba9c43b947a4233d40725
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-b02f53c3a99ba9c43b947a4233d40725
+    projectPath: Temp\UnityTempFile-b02f53c3a99ba9c43b947a4233d40725
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-be29958e3677d5f4e946209a6af9885f
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-be29958e3677d5f4e946209a6af9885f
+    projectPath: Temp\UnityTempFile-be29958e3677d5f4e946209a6af9885f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-c1946671a6f3ded49b702af9a2ad70b5
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-c1946671a6f3ded49b702af9a2ad70b5
+    projectPath: Temp\UnityTempFile-c1946671a6f3ded49b702af9a2ad70b5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-c4a143f0a530505478803f5351cad801
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-c4a143f0a530505478803f5351cad801
+    projectPath: Temp\UnityTempFile-c4a143f0a530505478803f5351cad801
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-c71f786fa6c20724193169158790c6b0
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-c71f786fa6c20724193169158790c6b0
+    projectPath: Temp\UnityTempFile-c71f786fa6c20724193169158790c6b0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-c7556eb56a1060844baf262e395c6b92
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-c7556eb56a1060844baf262e395c6b92
+    projectPath: Temp\UnityTempFile-c7556eb56a1060844baf262e395c6b92
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-c896c266ee8409a4bb302235cef92fc2
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-c896c266ee8409a4bb302235cef92fc2
+    projectPath: Temp\UnityTempFile-c896c266ee8409a4bb302235cef92fc2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-c8e904c5fe547b6479627d602e4b0d64
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-c8e904c5fe547b6479627d602e4b0d64
+    projectPath: Temp\UnityTempFile-c8e904c5fe547b6479627d602e4b0d64
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-c94e0626bbf257c44af31b7aa6a57e5f
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-c94e0626bbf257c44af31b7aa6a57e5f
+    projectPath: Temp\UnityTempFile-c94e0626bbf257c44af31b7aa6a57e5f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-cd5a256692fb5ab44ac1431bb5fd935e
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-cd5a256692fb5ab44ac1431bb5fd935e
+    projectPath: Temp\UnityTempFile-cd5a256692fb5ab44ac1431bb5fd935e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-cfc666d2f2d62254bb39b6a2f6b1d92d
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-cfc666d2f2d62254bb39b6a2f6b1d92d
+    projectPath: Temp\UnityTempFile-cfc666d2f2d62254bb39b6a2f6b1d92d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-d0177a4c399cbfa49bf99e65c9ae6c47
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-d0177a4c399cbfa49bf99e65c9ae6c47
+    projectPath: Temp\UnityTempFile-d0177a4c399cbfa49bf99e65c9ae6c47
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-d07fa15e365008243a30d2cb0ccd175e
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-d07fa15e365008243a30d2cb0ccd175e
+    projectPath: Temp\UnityTempFile-d07fa15e365008243a30d2cb0ccd175e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-d187001c1160d5f4a997a39ba197f59c
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-d187001c1160d5f4a997a39ba197f59c
+    projectPath: Temp\UnityTempFile-d187001c1160d5f4a997a39ba197f59c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-d89ee2a68ef603d4bb89cc5b21b14d3f
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-d89ee2a68ef603d4bb89cc5b21b14d3f
+    projectPath: Temp\UnityTempFile-d89ee2a68ef603d4bb89cc5b21b14d3f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-d9281ed023034e0479547284b92a5cfc
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-d9281ed023034e0479547284b92a5cfc
+    projectPath: Temp\UnityTempFile-d9281ed023034e0479547284b92a5cfc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-da9e1ebc059322a429000bd2262cc5f4
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-da9e1ebc059322a429000bd2262cc5f4
+    projectPath: Temp\UnityTempFile-da9e1ebc059322a429000bd2262cc5f4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-daf12772c4a584f4c957f90efedc278f
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-daf12772c4a584f4c957f90efedc278f
+    projectPath: Temp\UnityTempFile-daf12772c4a584f4c957f90efedc278f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-dd45f0a160ee4ea4ab702331ffc47573
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-dd45f0a160ee4ea4ab702331ffc47573
+    projectPath: Temp\UnityTempFile-dd45f0a160ee4ea4ab702331ffc47573
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-dee23f3b175f7c94a95a8f9dcca58e00
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-dee23f3b175f7c94a95a8f9dcca58e00
+    projectPath: Temp\UnityTempFile-dee23f3b175f7c94a95a8f9dcca58e00
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-e52a8456c94a3d24dba527d94ce3054f
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-e52a8456c94a3d24dba527d94ce3054f
+    projectPath: Temp\UnityTempFile-e52a8456c94a3d24dba527d94ce3054f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-e5e61a30286435247bf8f153bdb74f2d
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-e5e61a30286435247bf8f153bdb74f2d
+    projectPath: Temp\UnityTempFile-e5e61a30286435247bf8f153bdb74f2d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-e8ed859eb5c4b0c45a1a3b70a7683010
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-e8ed859eb5c4b0c45a1a3b70a7683010
+    projectPath: Temp\UnityTempFile-e8ed859eb5c4b0c45a1a3b70a7683010
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-f6f973c113c198946b92ba92557f8f69
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-f6f973c113c198946b92ba92557f8f69
+    projectPath: Temp\UnityTempFile-f6f973c113c198946b92ba92557f8f69
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-f91fdbe633d06b74bbf762bcf308fd91
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-f91fdbe633d06b74bbf762bcf308fd91
+    projectPath: Temp\UnityTempFile-f91fdbe633d06b74bbf762bcf308fd91
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-f969ada660b493b43a49bf9f7e7b1366
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-f969ada660b493b43a49bf9f7e7b1366
+    projectPath: Temp\UnityTempFile-f969ada660b493b43a49bf9f7e7b1366
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-f99eca6a665898749aea91a3f0c339f3
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-f99eca6a665898749aea91a3f0c339f3
+    projectPath: Temp\UnityTempFile-f99eca6a665898749aea91a3f0c339f3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-fa3f89d2dcae5a44cbcd4a772f866bfc
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-fa3f89d2dcae5a44cbcd4a772f866bfc
+    projectPath: Temp\UnityTempFile-fa3f89d2dcae5a44cbcd4a772f866bfc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: HauntedHouse\Temp\UnityTempFile-fca646e94c057df41a1c15f38e43f1bb
+    fullPath: D:\School\3 - CU Spring 2021\CPSC 4110\Proj Repo\Git\HauntedHouse\HauntedHouse\Temp\UnityTempFile-fca646e94c057df41a1c15f38e43f1bb
+    projectPath: Temp\UnityTempFile-fca646e94c057df41a1c15f38e43f1bb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
